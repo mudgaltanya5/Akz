@@ -1,1 +1,1 @@
-# Akz
+I developed a responsive website for AKZ IT Solutions using HTML, CSS, and Bootstrap. The project includes well-structured About and Contact pages with a clean UI, proper layout, and mobile-friendly design.
